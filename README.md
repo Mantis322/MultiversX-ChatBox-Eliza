@@ -86,3 +86,6 @@ pnpm build
 pnpm start
 pnpm start:client
 ```
+### ⚠️ Important Configuration
+- Don't forget to add `openrouterapikey` and `telegram_bot_token` to your `.env` file.
+- Also, to perform transactions with your created wallet, make sure to fill in the `mvx_private_key` field in the `.env` file.
