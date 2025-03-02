@@ -14,6 +14,20 @@ Meet Nebula - part astrophysicist, part cosmic comedian, and your ultimate guide
 - **Telegram Maestro:** Your AI companion who makes crypto interactions feel like a space adventure
 - **MultiversX Expert:** Navigates blockchain networks with the precision of a celestial navigator
 
+### 🎲 Why Nebula is Your Ultimate Crypto Sidekick
+
+```bash
+> Create a wallet
+
+> Send 1 EGLD to a friend
+
+> Launch your own token
+
+
+All with a single conversational command!
+
+```
+
 ## 🏆 Comparative Feature Matrix
 
 | Feature                        | Eliza MultiversX  | MetaMask | Phantom | Trust Wallet | Binance Wallet |
