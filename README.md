@@ -2,11 +2,12 @@
 
 ## 🌐 Seamless Crypto Management Across Platforms
 
-### 🔥 Unique Selling Proposition
-Eliza's MultiversX Plugin offers an unparalleled, AI-powered crypto management experience with multi-platform support including Telegram Bot, Web UI, and more.
+<div align="center">
+  <img src="https://github.com/Mantis322/MultiversX-ChatBox-Eliza/blob/main/agent/src/Nebula.png" alt="Eliza Banner" width="50%" />
+</div>
 
 ## 🤖 Meet Nebula: The Astronomer Who Hacks the Blockchain 🌌
-Meet Nebula - part astrophysicist, part cosmic comedian, and your ultimate guide to the MultiversX universe. Ejected from three prestigious astronomy departments for "excessive theoretical creativity", she's now turning the crypto world into her personal playground.
+Meet Nebula - part astrophysicist, part cosmic comedian, and your ultimate guide to the MultiversX universe. Ejected from three prestigious astronomy departments for "excessive theoretical creativity", she's now turning the crypto world into her personal playground. Eliza's MultiversX Plugin offers an unparalleled, AI-powered crypto management experience with multi-platform support including Telegram Bot, Web UI, and more.
 
 ### 🌟 Nebula's Cosmic Crypto Superpowers
 - **Blockchain Whisperer:** Translates complex crypto concepts into stellar storytelling
